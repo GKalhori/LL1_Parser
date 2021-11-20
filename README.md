@@ -12,13 +12,13 @@ This program is an implementation of a LL(1) top-down Parser. it gets a grammar 
 
 ### How to Run
 ```bash
-after downloading the whole project, open it with your ide.
-write your desired grammar into the input.txt file.
-go to the App.java file and run the main function.
+1. after downloading the whole project, open it with your ide.
+2. write your desired grammar into the input.txt file.
+3. go to the App.java file and run the main function.
 ```
 
 ### Project Link
-- [LL(1) Parser](https://github.com/GKalhori/LL1_Parser/)
+[LL(1) Parser](https://github.com/GKalhori/LL1_Parser/)
 
 ### Contact Me
-you can contact me through this [email](ghazalkalhori@yahoo.com)
+you can contact me through this [email](mailto:ghazalkalhori@yahoo.com)
