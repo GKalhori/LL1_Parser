@@ -1,2 +1,17 @@
-# LL(1) Parser
+<h1 align="center">LL(1) Parser</h1>
+
+- [Project Descicption](#project-descicption)
+- [How to Run](#how-to-run)
+- [Project Link](#project-link)
+
+
+### Project Descicption
 This program is an implementation of a LL(1) top-down Parser. it gets a grammar as input and gives you it's parse table in addition to the first, follow, and nullable sets as result.
+
+
+### How to Run
+```bash
+after downloading the whole project, open it in your ide.
+write your desired grammar in the input.txt file.
+go to the App.java file and run the main function.
+```
