@@ -1,5 +1,6 @@
 <h1>LL(1) Parser</h1>
 
+### Table of Contents
 - [Project Descicption](#project-descicption)
 - [How to Run](#how-to-run)
 - [Project Link](#project-link)
