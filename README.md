@@ -3,6 +3,7 @@
 - [Project Descicption](#project-descicption)
 - [How to Run](#how-to-run)
 - [Project Link](#project-link)
+- [Contact Me](#contact-me)
 
 
 ### Project Descicption
@@ -18,3 +19,6 @@ go to the App.java file and run the main function.
 
 ### Project Link
 - [LL(1) Parser](https://github.com/GKalhori/LL1_Parser/)
+
+### Contact Me
+you can contact me through this [email](ghazalkalhori@yahoo.com)
